@@ -1,1 +1,1 @@
-# This Repository is Created By Shaheer Ali. In this repository all the Data Science codes will be saved, and different projects done by Shaheer Ali will be uploaded, with datasets so that any one can see how a data science projects can be done.
+# This Repository is Created By Shaheer Ali. In this repository all the Data Science codes will be saved, and different projects done by Shaheer Ali will be uploaded, with datasets so that any one can see how the data science projects can be done.
