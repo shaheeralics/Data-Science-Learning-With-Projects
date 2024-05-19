@@ -1,1 +1,16 @@
-# This Repository is Created By Shaheer Ali. In this repository all the Data Science codes will be saved, and different projects done by Shaheer Ali will be uploaded, with datasets so that any one can see how the data science projects can be done.
+---
+
+# Information about the Author:
+
+[<img src="https://media.licdn.com/dms/image/D4D03AQH8PR9DDb3VxQ/profile-displayphoto-shrink_200_200/0/1713280211622?e=2147483647&v=beta&t=5TpzxNZJRmU3_zjNLoRb-O2V9amv1-1rwM5OczG01ZY" width="20%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
+
+
+**Mr. ShaheerAli**
+
+BS Computer Science\
+[Youtube channel](https://www.youtube.com/channel/UCUTphw52izMNv9W6AOIFGJA)\
+[Twitter](https://twitter.com/__shaheerali190)\
+[Linkedin](https://www.linkedin.com/in/shaheer-ali-2761aa303/)\
+[github](https://github.com/shaheeralics)\
+[Kaggle](https://www.kaggle.com/shaheerali197)\
+[Portfolio Website](https://shaheer.kesug.com)
